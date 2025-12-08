@@ -1,3 +1,4 @@
 debian:stable-slim
 golang:1.25.5
 alpine:3.18
+golang:1.23
