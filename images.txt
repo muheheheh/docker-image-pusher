@@ -1,2 +1,2 @@
 apache/rocketmq:4.9.4
-apache/rocketmq-dashboard
+apache/rocketmq-dashboard:latest
