@@ -2,3 +2,4 @@ debian:stable-slim
 golang:1.25.5
 alpine:3.18
 golang:1.23
+apache/rocketmq:4.9.4
