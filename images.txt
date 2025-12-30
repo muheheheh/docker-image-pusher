@@ -1,2 +1,1 @@
-rancher/local-
-path-provisioner:v0.0.31
+rancher/local-path-provisioner:v0.0.31
