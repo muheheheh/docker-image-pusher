@@ -1,3 +1,4 @@
 rancher/local-path-provisioner:v0.0.31
 omio/gcr.io.google_containers.busybox:1.24
 fatedier/frpc:v0.56.0
+fatedier/frps:v0.56.0
