@@ -4,3 +4,4 @@ fatedier/frpc:v0.56.0
 fatedier/frps:v0.56.0
 altinity/clickhouse-operator:latest
 clickhouse/clickhouse-server:latest
+pukapuka/ip-lookup:latest
